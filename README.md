@@ -1,1 +1,5 @@
-# portfolio
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-green)
+![Keras](https://img.shields.io/badge/Deep%20Learning-Keras-red)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Active-brightgreen)
